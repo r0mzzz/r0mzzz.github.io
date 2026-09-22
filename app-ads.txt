@@ -1,3 +1,3 @@
-# Файл app-ads.txt для приложения MyAwesomeGame
+# Файл app-ads.txt для приложения Beadline: Daily Puzzle Game
 # Google AdMob
 google.com, pub-4889887748108611, DIRECT, f08c47fec0942fa0
